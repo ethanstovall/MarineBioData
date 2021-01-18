@@ -1,6 +1,7 @@
 ## Setup for Miniconda, Virtual Environment, PyCharm, and Jupyter Notebook
 
-1. Install [Miniconda](https://conda.io/docs/user-guide/install/index.html#regular-installation)
+1. Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
+  - Follow the instructions at [this link](https://docs.conda.io/projects/conda/en/latest/user-guide/install/#regular-installation).
   - Conda is a package manager that sandboxes your project’s dependencies in a virtual environment
   - Miniconda contains Conda and its dependencies with no extra packages by default (as opposed to Anaconda, which installs some extra packages)
   - You will need to add Conda to PATH, just so you're not having to write its full directory name when you use the "conda" command.
