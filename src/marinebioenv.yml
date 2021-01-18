@@ -1,0 +1,13 @@
+name: marinebioenv
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - pip
+  - python=3.8
+  - pandas
+  - scikit-learn
+  - xlrd
+  - openpyxl
+  - notebook
